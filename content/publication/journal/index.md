@@ -36,9 +36,8 @@ abstract: A computation offloading scheme based on edge-cloud computing was prop
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
 pages: true
-
+featured: false
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
