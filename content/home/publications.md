@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Recent Publications
-subtitle: ''
+subtitle: 'Multiuser computation offloading for edge-cloud collaboration using submodular optimization'
 
 content:
   # Page type to display. E.g. post, talk, publication...

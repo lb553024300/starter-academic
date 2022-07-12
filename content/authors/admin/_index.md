@@ -10,7 +10,7 @@ role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Electric Power Research Institute, CSG
+- name: Electric Power Research Institute, China Southern Power Grid
   url: http://www.sepri.csg.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -48,10 +48,10 @@ social:
   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=zh-CN&user=_LJ1IOIAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/lb553024300
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
@@ -70,8 +70,7 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I’m currently a researcher at Electric Power Research Institute, China Southern Power Grid(CSG), Guangzhou, China. Before joining CSG, I got my PhD degree at Institute of Computing Technology (ICT), Chinese Academy of Sciences in 2022.
+My current research interests include multimedia computing, edge computing, and machine learning. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
