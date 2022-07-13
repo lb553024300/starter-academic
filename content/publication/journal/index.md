@@ -10,8 +10,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "1"
+- "2"
 
 date: "2013-07-01T00:00:00Z"
 doi: ""
@@ -36,8 +36,8 @@ abstract: A computation offloading scheme based on edge-cloud computing was prop
 tags: []
 
 # Display this page in the Featured widget?
-pages: true
-featured: false
+#pages: true
+featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
